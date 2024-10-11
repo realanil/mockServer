@@ -1,1 +1,27 @@
-{"success": true, "deck_id": "wt40epcs3jcs", "cards": [{"code": "KC", "image": "https://deckofcardsapi.com/static/img/KC.png", "images": {"svg": "https://deckofcardsapi.com/static/img/KC.svg", "png": "https://deckofcardsapi.com/static/img/KC.png"}, "value": "KING", "suit": "CLUBS"}, {"code": "5C", "image": "https://deckofcardsapi.com/static/img/5C.png", "images": {"svg": "https://deckofcardsapi.com/static/img/5C.svg", "png": "https://deckofcardsapi.com/static/img/5C.png"}, "value": "5", "suit": "CLUBS"}], "remaining": 50}
+{
+  "success": true,
+  "deck_id": "wt40epcs3jcs",
+  "cards": [
+    {
+      "code": "KC",
+      "image": "https://deckofcardsapi.com/static/img/KC.png",
+      "images": {
+        "svg": "https://deckofcardsapi.com/static/img/KC.svg",
+        "png": "https://deckofcardsapi.com/static/img/KC.png"
+      },
+      "value": "KING",
+      "suit": "CLUBS"
+    },
+    {
+      "code": "5C",
+      "image": "https://deckofcardsapi.com/static/img/5C.png",
+      "images": {
+        "svg": "https://deckofcardsapi.com/static/img/5C.svg",
+        "png": "https://deckofcardsapi.com/static/img/5C.png"
+      },
+      "value": "5",
+      "suit": "CLUBS"
+    }
+  ],
+  "remaining": 50
+}
